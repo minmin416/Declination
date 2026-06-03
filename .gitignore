@@ -7,3 +7,6 @@ CLAUDE.local.md
 
 # macOS
 .DS_Store
+
+# 자동 파이프라인 (로컬 전용 — 내러티브/결정 포함)
+short-film-project/
