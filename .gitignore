@@ -4,6 +4,7 @@ private/
 # Claude Code 로컬 전용
 CLAUDE.local.md
 .claude/settings.local.json
+.claude/scheduled_tasks.lock
 
 # macOS
 .DS_Store
@@ -15,3 +16,5 @@ short-film-project/
 .agents/
 .claude/skills/
 skills-lock.json
+.claude/commands/
+.gstack/
